@@ -8,6 +8,7 @@ namespace ConsoleApp2
             BudgetCalculator cbc = new BudgetCalculator();
             Console.Write("Enter the number of construction stages (1-15): ");
             cbc.NumberOfStages = int.Parse(Console.ReadLine());
+            Console.WriteLine("Hegt");
         }
     }
 }
