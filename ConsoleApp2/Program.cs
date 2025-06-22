@@ -9,6 +9,7 @@ namespace ConsoleApp2
             Console.Write("Enter the number of construction stages (1-15): ");
             cbc.NumberOfStages = int.Parse(Console.ReadLine());
             Console.WriteLine("Hegt");
+            Console.WriteLine("JHHH");
         }
     }
 }
